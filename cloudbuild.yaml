@@ -4,5 +4,5 @@ steps:
 
 artifacts:
   objects:
-    location: gs://go-app-artifacts/
+    location: gs://my-go-app-artifacts/
     paths: ["./go-app"]
